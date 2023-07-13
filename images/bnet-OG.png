@@ -1,0 +1,287 @@
+<!doctype html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<link rel="canonical" href="https://www.betternet.co/">
+	<link rel="amphtml" href="https://www.betternet.co/amp">
+	<meta name="viewport" content="width=device-width, user-scalable=0, initial-scale=1, maximum-scale=1, minimum-scale=1">
+	<meta http-equiv="X-UA-Compatible" content="ie=edge">
+
+	<title> 404 Page not found </title>
+	<meta name="description" content="  ">
+	<meta name="keywords" content>
+	<meta name="apple-itunes-app" content="app-id=946659216">
+
+	
+	<meta name="twitter:card" content="summary">
+	<meta name="twitter:site" content="@betternet_co">
+	<meta name="twitter:creator" content="@betternet_co">
+	
+	
+	<script type="text/javascript" src="../js/10021806-10025026.js"></script>
+	
+	
+	<script type="application/ld+json">
+		{
+			"@context": "http://schema.org",
+			"@graph": [
+				{
+					"@type": "Organization",
+					"name": "Betternet Technologies Inc.",
+					"url": "https://www.betternet.co",
+					"logo": "https://www.betternet.co/favicon/favicon-96x96.png",
+					"sameAs": [
+						"https://www.facebook.com/betternet.co",
+						"https://twitter.com/betternet_co",
+						"https://plus.google.com/109559434821727630526",
+						"https://www.instagram.com/betternet.co"
+					]
+				},
+				{
+					"@type": "BreadcrumbList",
+					"itemListElement": [{
+						"@type": "ListItem",
+						"position": 1,
+						"item": {
+							"@id": "https://www.betternet.co/",
+							"name": "Home"
+						}
+					},{
+						"@type": "ListItem",
+						"position": 2,
+						"item": {
+							"@id": "https://www.betternet.co",
+							"name": ""
+						}
+					}]
+				}
+			]
+		}
+	</script>
+	
+	
+	<meta property="og:type" content="website">
+	<meta property="og:url" content="https://www.betternet.co">
+	<meta property="og:title" content="Betternet Free VPN">
+	<meta property="og:image" content="bnet-OG.png">
+	<meta property="og:description" content="Betternet free VPN provides you with a better internet on all devices to access websites, protect your privacy against hackers and surf the web anonymously.">
+	<meta property="og:site_name" content="Betternet">
+	<meta property="og:locale" content="en_US">
+	
+
+	<link rel="apple-touch-icon" sizes="57x57" href="apple-touch-icon-57x57.png">
+	<link rel="apple-touch-icon" sizes="60x60" href="apple-touch-icon-60x60.png">
+	<link rel="apple-touch-icon" sizes="72x72" href="apple-touch-icon-72x72.png">
+	<link rel="apple-touch-icon" sizes="76x76" href="apple-touch-icon-76x76.png">
+	<link rel="apple-touch-icon" sizes="114x114" href="apple-touch-icon-114x114.png">
+	<link rel="apple-touch-icon" sizes="120x120" href="apple-touch-icon-120x120.png">
+	<link rel="apple-touch-icon" sizes="144x144" href="apple-touch-icon-144x144.png">
+	<link rel="apple-touch-icon" sizes="152x152" href="apple-touch-icon-152x152.png">
+	<link rel="apple-touch-icon" sizes="180x180" href="apple-touch-icon-180x180.png">
+	<link rel="icon" type="image/png" href="favicon-32x32.png" sizes="32x32">
+	<link rel="icon" type="image/png" href="android-chrome-192x192.png" sizes="192x192">
+	<link rel="icon" type="image/png" href="favicon-96x96.png" sizes="96x96">
+	<link rel="icon" type="image/png" href="favicon-16x16.png" sizes="16x16">
+	<link rel="manifest" href="/favicon/manifest.json">
+	<link rel="mask-icon" href="../fonts/safari-pinned-tab.svg" color="#5bbad5">
+	<meta name="msapplication-TileColor" content="#da532c">
+	<meta name="msapplication-TileImage" content="/favicon/mstile-144x144.png">
+	<link href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700,900" rel="stylesheet">
+	<link rel="stylesheet" href="../css/main.min.css">
+	
+
+	
+
+	
+	<script src="../js/otSDKStub.js" type="text/javascript" charset="UTF-8" data-domain-script="78af7642-71c2-42b6-8fef-c9d99be17137"></script>
+	<script type="text/javascript">
+		function OptanonWrapper() { }
+	</script>
+	
+	
+	<script type="text/javascript">
+		window._vwo_code = window._vwo_code || (function(){
+			var account_id=589987,
+			settings_tolerance=2000,
+			library_tolerance=2500,
+			use_existing_jquery=false,
+			is_spa=1,
+			hide_element='body',
+			 
+			f=false,d=document,code={use_existing_jquery:function(){return use_existing_jquery;},library_tolerance:function(){return library_tolerance;},finish:function(){if(!f){f=true;var a=d.getElementById('_vis_opt_path_hides');if(a)a.parentNode.removeChild(a);}},finished:function(){return f;},load:function(a){var b=d.createElement('script');b.src=a;b.type='text/javascript';b.innerText;b.onerror=function(){_vwo_code.finish();};d.getElementsByTagName('head')[0].appendChild(b);},init:function(){
+            	window.settings_timer=setTimeout(function () {_vwo_code.finish() },settings_tolerance);var a=d.createElement('style'),b=hide_element?hide_element+'{opacity:0 !important;filter:alpha(opacity=0) !important;background:none !important;}':'',h=d.getElementsByTagName('head')[0];a.setAttribute('id','_vis_opt_path_hides');a.setAttribute('type','text/css');if(a.styleSheet)a.styleSheet.cssText=b;else a.appendChild(d.createTextNode(b));h.appendChild(a);this.load('https://dev.visualwebsiteoptimizer.com/j.php?a='+account_id+'&u='+encodeURIComponent(d.URL)+'&f='+(+is_spa)+'&r='+Math.random());return settings_timer; }};window._vwo_settings_timer = code.init(); return code; }());
+	</script>
+	
+</head>
+<body>
+<div class="wrap">
+	
+		<header class="header ">
+<div class="header__wrap container">
+  <div class="header__logo-wrap">
+    <div class="header__btn" id="hamburger">
+      <span></span>
+      <span></span>
+      <span></span>
+    </div>
+    <a href="/" class="header__logo"><span class="header__logo-img"></span>Betternet </a>
+  </div>
+  <nav class="header__nav">
+    
+    <a href id="Products" class="header__dropdown dropdown-button" data-dropdown="products">Products</a>
+    
+    <a href="https://get.betternet.co/" id="Pricing" class data-dropdown="pricing">Pricing</a>
+    
+    <a href="/beta/" id="Beta" class data-dropdown="beta">Beta</a>
+    
+  </nav>
+  <div class="header-buttons">
+    <a href="https://get.betternet.co" class="button premium__button gpr__get-app-btn">Go Premium</a>
+    <a href class="button button__download gpr__download-app-btn"> Download App </a>
+    <a href class="button button__download button__download--mob gpr__download-app-btn">Get Betternet</a>
+  </div>
+</div>
+</header>
+
+
+	
+
+	<nav class="dropdown" id="dropdown-platforms">
+	<a href="/neverads"><i class="icon-neverads"></i>NeverAds</a>
+</nav>
+<nav class="dropdown" id="dropdown-products">
+	<a href="/iphone-vpn/"><i class="icon-iphone"></i>iOS</a>
+	<a href="/android-vpn/"><i class="icon-android"></i>Android</a>
+	<a href="/windows-vpn/"><i class="icon-windows"></i>Windows</a>
+	<a href="/mac-vpn/"><i class="icon-mac"></i>Mac OS</a>
+	<a href="/chrome-vpn/"><i class="icon-chrome"></i>Chrome</a>
+	
+</nav>
+
+
+	
+		
+			<aside>
+	<div>
+		<a href="/">Home</a>
+		<a href="#" data-aside-section="#platforms" class="platforms">Platforms</a>
+		<a href="/beta/">Beta</a>
+		<a href="/download">Download</a>
+		<div class="section" id="platforms">
+			<a class="close"><i class="icon-back"></i>Back</a>
+      <ul>
+        <li><a href="/iphone-vpn/">
+          <i class="icon-iphone"></i>
+          iOS</a>
+        </li>
+
+        <li><a href="/android-vpn/">
+          <i class="icon-android"></i>
+          Android</a>
+        </li>
+
+        <li>
+          <a href="/windows-vpn/">
+            <i class="icon-windows"></i>
+            Windows
+          </a>
+        </li>
+
+        <li><a href="/chrome-vpn/">
+          <i class="icon-chrome"></i>
+          Google Chrome</a>
+        </li>
+      </ul>
+		</div>
+		<div class="section" id="products">
+			<a class="close"><i class="icon-back"></i>Back</a>
+      <ul>
+        <li><a href="/neverads">
+          <i class="icon-neverads"></i>
+          NeverAds</a>
+        </li>
+      </ul>
+		</div>
+	</div>
+</aside>
+
+		
+	
+
+	
+<main id="main">
+	<section class="fourzerofour container">
+		<div class="fourzerofour__wrap">
+			<img src="../fonts/404.svg" id="desert">
+			<img src="../fonts/thorn.svg" id="thorn">
+			<i id="shadow"></i>
+		</div>
+		<h1>Oops, looks like you're in the middle of nowhere.</h1>
+		<h2>Let me guide you <a href="/">back to home</a>.</h2>
+	</section>
+</main>
+<script>
+	(function(){
+		window.dataLayer = window.dataLayer || [];
+		dataLayer.push({
+			'event': 'gaTriggerEvent',
+			'gaEventCategory': '404 page',
+			'gaEventAction': window.location.pathname,
+			'gaEventLabel': '',
+			'gaEventValue': '',
+			'gprEventLabel': '404_tracking'
+		});
+	})();
+</script>
+
+
+	
+		<footer class="footer">
+	<div class="footer__wrap container">
+		<nav class="footer__nav">
+		<h5 class="footer__title footer__title--primary">Platforms</h5>
+		<a href="/iphone-vpn/">iOS</a>
+		<a href="/android-vpn/">Android</a>
+		<a href="/windows-vpn/">Windows</a>
+		<a href="/mac-vpn/">Mac OS</a>
+		<a href="/chrome-vpn/">Chrome</a>
+		</nav>
+		
+		<nav class="footer__nav">
+			<h5 class="footer__title footer__title--col-2">Learn More</h5>
+			
+			
+			<a href="http://support.betternet.co" title="Help Center" target="_blank">Help Center</a>
+			
+			
+		</nav>
+		
+		<nav class="footer__nav">
+			<h5 class="footer__title footer__title--col-3">Legal</h5>
+			
+			
+			<a href="/privacy-policy/" title="Privacy Policy" target="_blank">Privacy Policy</a>
+			
+			<a href="/terms/" title="Terms of Service" target="_blank">Terms of Service</a>
+			
+			<a href="https://www.pango.co/privacy/sale-optout/" title="Do not sell my personal information" target="_blank">Do not sell my personal information</a>
+			
+			
+		</nav>
+		
+		<nav class="footer__nav footer__nav--ico">
+		<div class="footer__title footer__title--grey"></div>
+		
+		<p>Betternet LLC Inc. Copyright 2023 </p>
+		</nav>
+	</div>
+</footer>
+
+
+<script defer src="../js/betternet.gpr.min.js"></script>
+<script defer src="../js/gdpr.js"></script>
+<script defer src="../js/main.js"></script>
+	
+</div>
+</body>
+</html>
